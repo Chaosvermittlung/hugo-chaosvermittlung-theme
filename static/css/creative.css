@@ -200,6 +200,7 @@ header .header-content {
     width: 100%;
     padding: 100px 15px;
     text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 header .header-content .header-content-inner h1 {
@@ -228,7 +229,7 @@ header .header-content .header-content-inner p {
     header .header-content {
         position: absolute;
         top: 50%;
-        padding: 0 50px;
+        padding: 20px 0 30px;
         -webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
         transform: translateY(-50%);
